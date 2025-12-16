@@ -3,7 +3,6 @@
 - 😀 Olá, sou o Arthur, sou um desenvolvedor apaixonado por tecnologia!
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Luau
-- 💬 Pergunte-me sobre qualquer coisa [aqui](https://www.linkedin.com/in/arthur-finotelo-0b9924338/)
 
 ## Minhas Skills
 **Aplicações e dados(Estudando)**
@@ -26,15 +25,14 @@
 
 <br/>
 
-<a href="https://github.com/ArthurFinotelo" title="Perfil do ArthurFinotelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurFinotelo&theme=dracula&show_icons=true" />
+<a href="https://github.com/TuiDevelops" title="Perfil do TuiDevelops">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TuiDevelops&theme=dracula&show_icons=true" />
 </a>
 
-<a href="https://github.com/ArthurFinotelo" title="Perfil do ArthurFinotelo">
-  <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFinotelo&layout=compact&show_icons=true&theme=dracula />
+<a href="https://github.com/TuiDevelops" title="Perfil do TuiDevelops">
+  <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=TuiDevelops&layout=compact&show_icons=true&theme=dracula />
 <a/>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-ArthurFinotelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-finotelo-0b9924338/)](https://www.linkedin.com/in/arthur-finotelo-0b9924338/)
-[![GitHub](https://img.shields.io/github/followers/ArthurFinotelo?label=follow&style=social)](https://github.com/ArthurFinotelo)
+[![GitHub](https://img.shields.io/github/followers/TuiDevelops?label=follow&style=social)](https://github.com/TuiDevelops)
