@@ -1,6 +1,6 @@
 ## Sobre mim 😎
 
-- 😀 Olá, sou o Arthur, sou um desenvolvedor apaixonado por tecnologia!
+- 😀 Olá, sou o Tui, sou um desenvolvedor apaixonado por tecnologia!
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Luau
 
