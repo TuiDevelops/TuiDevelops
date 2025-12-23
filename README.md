@@ -25,13 +25,12 @@
 
 <br/>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=TuiDevelops&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=TuiDevelops&show_icons=true" />
-</picture>
+<p align="left">
+  <a href="https://github.com/TuiDevelops">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TuiDevelops&theme=dracula&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TuiDevelops&layout=compact&theme=dracula"/>
+  </a>
+</p>
 
 ## Onde me encontrar
 
