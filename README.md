@@ -27,8 +27,8 @@
 
 <p align="left">
   <a href="https://github.com/TuiDevelops">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TuiDevelops&theme=dracula&show_icons=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TuiDevelops&layout=compact&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TuiDevelops&theme=dracula&show_icons=true&cache_seconds=3600"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TuiDevelops&layout=compact&theme=dracula&cache_seconds=3600"/>
   </a>
 </p>
 
