@@ -35,3 +35,4 @@
 ## Onde me encontrar
 
 [![GitHub](https://img.shields.io/github/followers/TuiDevelops?label=follow&style=social)](https://github.com/TuiDevelops)
+[![Youtube](https://img.shields.io/badge/-TuiDevelops-red?style=flat-square&logo=Youtube&logoColor=white&link=https:https://www.youtube.com/@TuiDevelops)](https://www.youtube.com/@TuiDevelops)
