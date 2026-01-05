@@ -9,8 +9,9 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![LUA](https://img.shields.io/badge/Luau-333333?style=flat&logo=lua&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)
+![LUAU](https://img.shields.io/badge/Luau-333333?style=flat&logo=luau)
+![PYTHON](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
 
 **DevOps**
 
@@ -22,6 +23,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-333333?style=flat&logo=roblox-studio&logoColor=007ACC)
+
+**OS**
+
+![Fedora Linux 43](https://img.shields.io/badge/-Fedora%20Linux-333333?style=flat&logo=fedora)
 
 <br/>
 
