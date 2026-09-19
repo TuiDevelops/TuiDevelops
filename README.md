@@ -26,7 +26,7 @@
 
 **OS**
 
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-333333?style=flat&logo=archlinux)
+![Fedora Linux](https://img.shields.io/badge/-Fedora%20Linux-333333?style=flat&logo=fedora)
 
 <br/>
 
