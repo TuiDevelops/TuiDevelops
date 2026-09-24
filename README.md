@@ -1,43 +1,68 @@
-## Sobre mim 😎
+<h1 data-importer="text" align="left">👨‍💻TuiDevelops</h1>
 
-- 😀 Olá, sou o Tui, sou um desenvolvedor apaixonado por tecnologia!
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Luau
+###
 
-## Minhas Skills
-**Aplicações e dados(Estudando)**
+<p data-importer="text" align="left">Engenheiro de Software</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)
-![LUAU](https://img.shields.io/badge/Luau-333333?style=flat&logo=luau)
-![PYTHON](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+###
 
-**DevOps**
+<h2 data-importer="text" align="left">Sobre mim</h2>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+###
 
-**Ferramentas de desenvolvimento**
+<p data-importer="text" align="left">😀Desenvolvedor apaixonado por tecnologia!<br>🤔 Sempre explorando novas tecnologias e desenvolvendo soluções de software.<br>📚 Atualmente estudando Ciências da Computação com UBL.<br>🎯 Metas: Contribuir com projetos open-source.</p>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-333333?style=flat&logo=roblox-studio&logoColor=007ACC)
+###
 
-**OS**
+<h2 data-importer="text" align="left">🤖 Linguagens</h2>
 
-![Fedora Linux](https://img.shields.io/badge/-Fedora%20Linux-333333?style=flat&logo=fedora)
+###
 
-<br/>
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+</div>
 
-<p align="left">
-  <a href="https://github.com/TuiDevelops">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TuiDevelops&theme=dracula&show_icons=true&cache_seconds=3600"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TuiDevelops&layout=compact&theme=dracula&cache_seconds=3600"/>
-  </a>
-</p>
+###
 
-## Onde me encontrar
+<h2 data-importer="text" align="left">🪛 Ferramentas de Desenvolvimento</h2>
 
-[![GitHub](https://img.shields.io/github/followers/TuiDevelops?label=follow&style=social)](https://github.com/TuiDevelops)
-[![Youtube](https://img.shields.io/badge/-TuiDevelops-red?style=flat-square&logo=Youtube&logoColor=white&link=https:https://www.youtube.com/@TuiDevelops)](https://www.youtube.com/@TuiDevelops)
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/TuiDevelops/TuiDevelops/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/TuiDevelops/TuiDevelops/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/TuiDevelops/TuiDevelops/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:TuiDevelops?theme=minecraft&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
